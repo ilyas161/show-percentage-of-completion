@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "ansi-colors": "^4.1.3",
+    "cli-progress": "^3.11.2"
+  },
+  "name": "show-percentage-of-completion",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ilyas161/show-percentage-of-completion.git"
+  },
+  "author": "ilyas",
+  "license": "ISC"
+}
